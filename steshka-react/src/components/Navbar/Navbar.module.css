@@ -1,0 +1,16 @@
+.nav{
+    background-color: blueviolet;
+    grid-row: 2/6;
+    grid-column: 1/1;
+    padding: 15px;
+    
+    } 
+
+.item {
+    border: 1px solid #0018f0;
+    border-radius: 20px;
+    background: #ff9d0a;
+    width: 80px; height: 20px;
+    padding-left: 10px;
+    margin-bottom: 10px; 
+}

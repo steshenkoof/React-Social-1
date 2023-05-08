@@ -1,0 +1,5 @@
+.item {
+    background-color: rgb(143, 125, 129);
+    grid-row: 3/5;
+    grid-column: 2/5;
+}
